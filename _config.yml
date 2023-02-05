@@ -1,8 +1,8 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+title: recipes.kilian.io
+email: me@kilian.io
+description: A list of stuff I find tasty, thanks Chowdown
+baseurl: "https://recipes.kilian.io"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
