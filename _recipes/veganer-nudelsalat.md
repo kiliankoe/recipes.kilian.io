@@ -24,7 +24,7 @@ ingredients:
 directions:
 - Nudeln kochen, abschrecken und abkühlen lassen.
 - Frühlingszwiebeln in feine Scheiben schneiden. Weiße und grüne Teile trennen.
-- Für das Dressing: Balsamico-Essig mit Senf, Agavendicksaft (oder Zucker), Salz und Cayennepfeffer samtig rühren. Die halbe Zehe Knoblauch reinpressen, die weißen Frühlingszwiebelringe und das Olivenöl hinzugeben. Rühren und ziehen lassen.
+- Für das Dressing Balsamico-Essig mit Senf, Agavendicksaft (oder Zucker), Salz und Cayennepfeffer samtig rühren. Die halbe Zehe Knoblauch reinpressen, die weißen Frühlingszwiebelringe und das Olivenöl hinzugeben. Rühren und ziehen lassen.
 - Zucchini in kleine Stücke schneiden.
 - Die getrockneten Tomaten klein hacken.
 - Pinienkerne in einer Pfanne ohne Öl anrösten.
