@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Sticky Tofu"
+title: Sticky Tofu
 image: sticky-tofu.jpg
 imagecredit: http://mobile.kptncook.com/recipe/pinterest/Sticky-Tofu-mit-Brokkoli-&-Kokosnuss-Reis/4b596ab7
 tags: tofu

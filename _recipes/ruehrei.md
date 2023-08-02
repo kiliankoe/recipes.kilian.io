@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Veganes Rührei"
-image: veganes-ruehrei.jpg
+title: "Rührei"
+image: ruehrei.jpg
 imagecredit: https://www.chefkoch.de/rezepte/2827981434804562/Veganes-Ruehrei-mit-Fruehlingszwiebeln-und-Tomaten.html
 tags: tofu
 

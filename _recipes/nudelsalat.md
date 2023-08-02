@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Veganer Nudelsalat
-image: veganer-nudelsalat.jpg
+title: Nudelsalat
+image: nudelsalat.jpg
 imagecredit: https://www.chefkoch.de/rezepte/3116771464648692/Veganer-Nudelsalat-mit-Zucchini-Basilikum-und-Pinienkernen.html
 tags: nudelsalat
 

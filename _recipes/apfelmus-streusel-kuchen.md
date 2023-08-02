@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Veganer Apfelmus Streusel Kuchen"
+title: Apfelmus Streusel Kuchen
 image: apfelmus-streusel-kuchen.jpg
 imagecredit: https://www.chefkoch.de/rezepte/3300061490034270/Veganer-Apfelmus-Streusel-Kuchen.html
 tags: cake, dessert
